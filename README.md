@@ -1,6 +1,5 @@
 # Poker-bot-battle
-I won the ITU poker bot battle 2023 with <a href="https://github.com/borchand/ITU-poker-bot-battle/blob/main/my_bot.py">my_bot.py</a>.
-
+I took part in the ITU poker bot challenge 2023, and my poker bot (<a href="https://github.com/borchand/ITU-poker-bot-battle/blob/main/my_bot.py">my_bot.py</a>) emerged as the winner of the competition. If you're interested in testing your own skills, thhis repository here provides everything you need to get started.
 Bollow is the documentation from the challenge
 
 # Welcome to the poker bot challenge
